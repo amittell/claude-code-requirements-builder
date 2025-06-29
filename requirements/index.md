@@ -4,13 +4,13 @@ This file tracks all requirements gathered using the Claude Requirements system.
 
 ## Status Overview
 
-- =4 **Active**: Currently gathering requirements
--  **Complete**: Requirements fully documented
-- � **Incomplete**: Paused or abandoned
+- 🔴 **Active**: Currently gathering requirements
+- ✅ **Complete**: Requirements fully documented
+- ⚠️ **Incomplete**: Paused or abandoned
 
 ## Requirements Log
 
-_No requirements yet. Use `/requirements-start [description]` to begin._
+_No requirements yet. Use MCP tools or `/requirements-start [description]` to begin._
 
 <!-- Format for entries:
 ### YYYY-MM-DD-HHMM-[name]
